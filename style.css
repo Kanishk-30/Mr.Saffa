@@ -51,7 +51,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 80px;
+    padding: 5px 60px;
     background: rgb(168, 3, 3);
     /* F2F996 */
     /* ADB5EF */
@@ -71,13 +71,13 @@ body {
 
 #navbar li {
     list-style: none;
-    padding: 0 20px;
+    padding: 0 15px;
     position: relative;
 }
 
 #navbar li a{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
     color: #1a1a1a;
     transition: 0.3s ease;
